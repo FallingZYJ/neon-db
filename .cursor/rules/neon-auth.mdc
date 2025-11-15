@@ -1,5 +1,5 @@
 ---
-description: Use these rules to relate your database data with your Auth users information
+##description: Use these rules to relate your database data with your Auth users information
 globs: *.tsx, *.ts
 ---
 <neon_auth_guidelines>
